@@ -6,14 +6,14 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>SignalR.Orleans</PackageId>
-    <Title>SignalR.Orleans - Orleans backplane for SignalR Core</Title>
+    <PackageId>OPTANO.SignalR.Orleans</PackageId>
+    <Title>OPTANO Fork of: SignalR.Orleans - Orleans backplane for SignalR Core</Title>
     <Description>Orleans backplane for SignalR Core.</Description>
     <PackageTags>$(PackageTags) AspNetCore</PackageTags>
     <PackageReleaseNotes></PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <IncludeSource>true</IncludeSource>
-    <PackageVersion>2.1.0</PackageVersion>
+    <PackageVersion>2.1.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
